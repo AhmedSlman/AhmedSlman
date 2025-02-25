@@ -2,8 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00E8FC&vCenter=true&width=600&height=70&lines=Hello!+I'm+Ahmed+Slman+👋;Flutter+%26+Dart+Architect+🏗️;Crafting+Digital+Experiences+✨;Building+Tomorrow's+Apps+Today+🚀;" alt="Typing Animation">
 </h1>
 
+<!-- بديل 1: أنيميشن مبرمج يعمل -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="500" alt="Animated Coding Banner">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500" alt="Developer Animation">
+</p>
+
+<!-- بديل 2: شاشة كود متحركة -->
+<!-- بديل 5: تصميم ثلاثي الأبعاد -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500" alt="3D Coding">
 </p>
 
 <!-- Custom Badges -->
