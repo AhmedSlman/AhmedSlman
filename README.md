@@ -125,7 +125,6 @@
       <img src="https://progress-bar.dev/85/?width=300&color=00e8fc&title=Android%20Studio">
       <img src="https://progress-bar.dev/90/?width=300&color=00ff9d&title=VS%20Code">
     </div>
-    
     <div>
       <h4>🎨 Design Skills</h4>
       <img src="https://progress-bar.dev/75/?width=300&color=ff00d9&title=UI%20Prototyping">
