@@ -2,16 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00E8FC&vCenter=true&width=600&height=70&lines=Hello!+I'm+Ahmed+Slman+👋;Flutter+%26+Dart+Architect+🏗️;Crafting+Digital+Experiences+✨;Building+Tomorrow's+Apps+Today+🚀;" alt="Typing Animation">
 </h1>
 
-<!-- بديل 1: أنيميشن مبرمج يعمل -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500" alt="Developer Animation">
 </p>
 
 <!-- بديل 2: شاشة كود متحركة -->
-<!-- بديل 5: تصميم ثلاثي الأبعاد -->
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500" alt="3D Coding">
-</p>
+<!-- بديل 5: تصميم ثلاثي الأبعاد --
+>
 
 <!-- Custom Badges -->
 <p align="center">
