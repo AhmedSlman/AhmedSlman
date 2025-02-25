@@ -2,22 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00E8FC&vCenter=true&width=600&height=70&lines=Hello!+I'm+Ahmed+Slman+👋;Flutter+%26+Dart+Architect+🏗️;Crafting+Digital+Experiences+✨;Building+Tomorrow's+Apps+Today+🚀;" alt="Typing Animation">
 </h1>
 
-<!-- بديل 1: أنيميشن مبرمج يعمل -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500" alt="Developer Animation">
-</p>
-
-<!-- بديل 2: شاشة كود متحركة -->
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7f7d4c85f2d17e0a095b8abb3a4b1237.gif" width="500" alt="Code Screen">
-</p>
-
-<!-- بديل 3: أيقونات تكنولوجية متحركة -->
-<p align="center">
-  <img src="https://thumbs.gfycat.com/AgilePiercingAnemone-size_restricted.gif" width="500" alt="Tech Icons">
-</p>
-
-<!-- بديل 4: أنيميشن فلاتر خاص -->
 <p align="center">
   <img src="https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6465766f70732e656c762f6173736574732f696d672f666c75747465722d6170702d646576656c6f706d656e742e676966" width="500" alt="Flutter Animation">
 </p>
