@@ -2,12 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00E8FC&vCenter=true&width=600&height=70&lines=Hello!+I'm+Ahmed+Slman+👋;Flutter+%26+Dart+Architect+🏗️;Crafting+Digital+Experiences+✨;Building+Tomorrow's+Apps+Today+🚀;" alt="Typing Animation">
 </h1>
 
-
-
-<!-- بديل 5: تصميم ثلاثي الأبعاد -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500" alt="3D Coding">
-</p>>
+  <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="500" alt="Animated Coding Banner">
+</p>
 
 <!-- Custom Badges -->
 <p align="center">
@@ -55,8 +52,8 @@
 <h2 align="center">🔮 Tech Stack</h2>
 
 <details open>
-<!--   <summary><b>🧰 Core Technologies</b></summary>
-  <br> -->
+  <summary><b>🧰 Core Technologies</b></summary>
+  <br>
   <p align="center">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
@@ -85,67 +82,126 @@
     <img src="https://img.shields.io/badge/Provider-0175C2?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider">
     <img src="https://img.shields.io/badge/GetX-8BC34A?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX">
   </p>
+</details>
 
-
-<!-- FontAwesome Icons -->
-<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-
+<details>
+  <summary><b>🛠️ Development Tools</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+    <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  </p>
+</details>
 
 <!-- Animated Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 </p>
-<!-- -------------------------------------------------------------------------------- -->
-<!-- -------------------------------------------------------------------------------- -->
 
-<!-- -------------------------------------------------------------------------------- -->
+<!-- Current Focus with Timeline -->
+<h2 align="center">🚀 Current Focus</h2>
 
-<!-- -------------------------------------------------------------------------------- -->
-
-<!-- -------------------------------------------------------------------------------- -->
-
-
-<!-- Progress Visualization -->
-<h2 align="center">📊 Skill Progression</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,bloc,rest&perline=6&theme=dark" width="80%">
-  
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-top: 30px;">
- <div align="center">
-  <h3>🚀 IDE Mastery Levels</h3>
-  
-  <!-- Android Studio Progress -->
-  <div style="margin: 20px 0; position: relative;">
-    <img src="https://img.icons8.com/3d-fluency/94/android-studio.png" width="50" style="vertical-align: middle; margin-right: 15px;"/>
-    <div style="display: inline-block; width: 70%;">
-      <img src="https://progress-bar.dev/85/?width=300&color=00e8fc&title=Android+Studio&gradient=00e8fc-00ff9d&scale=100&suffix=%EF%B8%8F" alt="Android Studio">
-      <div style="display: flex; justify-content: space-between; margin-top: 5px;">
-        <span style="color: #00e8fc;">⋆ Advanced</span>
-        <span style="color: #00ff9d;">850+ Hours</span>
-      </div>
-    </div>
-  </div>
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Rocket.png?raw=true" width="25" height="25"/> 
+  <strong>Building a Flutter AR Navigation System</strong>
+</div>
 
-  <!-- VS Code Progress -->
-  <div style="margin: 20px 0; position: relative;">
-    <img src="https://img.icons8.com/3d-fluency/94/visual-studio-code-2019.png" width="50" style="vertical-align: middle; margin-right: 15px;"/>
-    <div style="display: inline-block; width: 70%;">
-      <img src="https://progress-bar.dev/90/?width=300&color=00ff9d&title=VS+Code&gradient=00ff9d-0066ff&scale=100&suffix=%EF%B8%8F" alt="VS Code">
-      <div style="display: flex; justify-content: space-between; margin-top: 5px;">
-        <span style="color: #00ff9d;">✪ Expert</span>
-        <span style="color: #0066ff;">1200+ Hours</span>
-      </div>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img align="center" src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Chart%20Increasing.png?raw=true" width="25" height="25" alt="Chart Increasing"> 
+        <strong>Timeline:</strong>
+      </td>
+    </tr>
+  </table>
+  
+  <div align="center">
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://progress-bar.dev/100/?title=Research&width=200&color=00E8FC" alt="Research Progress" />
+      <span style="margin-left: 10px;">Completed market research and feasibility study</span>
     </div>
-  </div>
-
-  <!-- Skill Legend -->
-  <div style="background: #1a1a2e; padding: 10px; border-radius: 8px; margin-top: 20px;">
-    <span style="color: #00e8fc;">⋆ Advanced (80-89%)</span> | 
-    <span style="color: #00ff9d;">✪ Expert (90%+)</span> | 
-    <span style="color: #ff00d9;">⭒ Intermediate (60-79%)</span>
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://progress-bar.dev/75/?title=Design&width=200&color=00E8FC" alt="Design Progress" />
+      <span style="margin-left: 10px;">Working on UI/UX design and architecture</span>
+    </div>
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://progress-bar.dev/40/?title=Development&width=200&color=00E8FC" alt="Development Progress" />
+      <span style="margin-left: 10px;">Implementing AR features and core functionality</span>
+    </div>
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://progress-bar.dev/10/?title=Testing&width=200&color=00E8FC" alt="Testing Progress" />
+      <span style="margin-left: 10px;">Early-stage testing of AR components</span>
+    </div>
   </div>
 </div>
-    
+
+<!-- Skills Showcase -->
+<h2 align="center">⚡ Skills Showcase</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Flutter & Dart Proficiency</h3>
+        <img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/master/content/img/badge.svg" width="90%" alt="Skills Graph">
+        <div align="center">
+          <div style="display: flex; justify-content: space-between; width: 90%;">
+            <div>
+              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/High%20Voltage.png?raw=true" width="20" height="20" alt="High Voltage"/>
+              <strong>Performance Optimization</strong>
+            </div>
+            <div>
+              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Puzzle%20Piece.png?raw=true" width="20" height="20" alt="Puzzle Piece"/>
+              <strong>Custom Widgets</strong>
+            </div>
+          </div>
+          <div style="display: flex; justify-content: space-between; width: 90%;">
+            <div>
+              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Optical%20Disk.png?raw=true" width="20" height="20" alt="Optical Disk"/>
+              <strong>State Management</strong>
+            </div>
+            <div>
+              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Artist%20Palette.png?raw=true" width="20" height="20" alt="Artist Palette"/>
+              <strong>UI Design</strong>
+            </div>
+          </div>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Architecture & Integration</h3>
+        <img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/master/content/img/badge.svg" width="90%" alt="Architecture Graph">
+        <div align="center">
+          <div style="display: flex; justify-content: space-between; width: 90%;">
+            <div>
+              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Classical%20Building.png?raw=true" width="20" height="20" alt="Classical Building"/>
+              <strong>Clean Architecture</strong>
+            </div>
+            <div>
+              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Link.png?raw=true" width="20" height="20" alt="Link"/>
+              <strong>API Integration</strong>
+            </div>
+          </div>
+          <div style="display: flex; justify-content: space-between; width: 90%;">
+            <div>
+              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Card%20Index%20Dividers.png?raw=true" width="20" height="20" alt="Card Index Dividers"/>
+              <strong>Database Design</strong>
+            </div>
+            <div>
+              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Shield.png?raw=true" width="20" height="20" alt="Shield"/>
+              <strong>Security</strong>
+            </div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <!-- GitHub Stats Section with Animations -->
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -167,7 +223,10 @@
     </a>
   </p>
   
-
+  <!-- 3D Contribution Graph -->
+  <a href="https://github.com/AhmedSlman">
+    <img width="900em" src="https://github-profile-3d-contrib.vercel.app/api?username=AhmedSlman&theme=dark" alt="Contribution Graph" />
+  </a>
 </div>
 
 <!-- Animated Divider -->
@@ -175,7 +234,26 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 </p>
 
+<!-- Featured Projects Section with Interactive Cards -->
+<h2 align="center">✨ Featured Projects</h2>
 
+<div align="center">
+  <a href="https://github.com/AhmedSlman/flutter-ar-shop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSlman&repo=flutter-ar-shop&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="AR Shopping App">
+  </a>
+  <a href="https://github.com/AhmedSlman/flutter-smart-home">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSlman&repo=flutter-smart-home&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Smart Home App">
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/AhmedSlman/flutter-ai-assistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSlman&repo=flutter-ai-assistant&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="AI Assistant">
+  </a>
+  <a href="https://github.com/AhmedSlman/flutter-educational-games">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSlman&repo=flutter-educational-games&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Educational Games">
+  </a>
+</div>
 
 <!-- Portfolio Button -->
 <p align="center">
@@ -210,7 +288,17 @@
   </a>
 </p>
 
+<!-- Support Section -->
+<h2 align="center">☕ Support My Work</h2>
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/YourHandle">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+  <a href="https://www.patreon.com/YourHandle">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
+  </a>
+</p>
 
 <!-- GitHub Activity Graph -->
 <h2 align="center">📈 Activity Graph</h2>
