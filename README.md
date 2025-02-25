@@ -91,123 +91,13 @@
   </p>
 </details>
 
-<details>
-  <summary><b>🛠️ Development Tools</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
-    <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  </p>
-</details>
+
 
 <!-- Animated Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 </p>
 
-<!-- Current Focus with Timeline -->
-<h2 align="center">🚀 Current Focus</h2>
-
-<div align="center">
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Rocket.png?raw=true" width="25" height="25"/> 
-  <strong>Building a Flutter AR Navigation System</strong>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img align="center" src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Chart%20Increasing.png?raw=true" width="25" height="25" alt="Chart Increasing"> 
-        <strong>Timeline:</strong>
-      </td>
-    </tr>
-  </table>
-  
-  <div align="center">
-    <div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://progress-bar.dev/100/?title=Research&width=200&color=00E8FC" alt="Research Progress" />
-      <span style="margin-left: 10px;">Completed market research and feasibility study</span>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://progress-bar.dev/75/?title=Design&width=200&color=00E8FC" alt="Design Progress" />
-      <span style="margin-left: 10px;">Working on UI/UX design and architecture</span>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://progress-bar.dev/40/?title=Development&width=200&color=00E8FC" alt="Development Progress" />
-      <span style="margin-left: 10px;">Implementing AR features and core functionality</span>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://progress-bar.dev/10/?title=Testing&width=200&color=00E8FC" alt="Testing Progress" />
-      <span style="margin-left: 10px;">Early-stage testing of AR components</span>
-    </div>
-  </div>
-</div>
-
-<!-- Skills Showcase -->
-<h2 align="center">⚡ Skills Showcase</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Flutter & Dart Proficiency</h3>
-        <img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/master/content/img/badge.svg" width="90%" alt="Skills Graph">
-        <div align="center">
-          <div style="display: flex; justify-content: space-between; width: 90%;">
-            <div>
-              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/High%20Voltage.png?raw=true" width="20" height="20" alt="High Voltage"/>
-              <strong>Performance Optimization</strong>
-            </div>
-            <div>
-              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Puzzle%20Piece.png?raw=true" width="20" height="20" alt="Puzzle Piece"/>
-              <strong>Custom Widgets</strong>
-            </div>
-          </div>
-          <div style="display: flex; justify-content: space-between; width: 90%;">
-            <div>
-              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Optical%20Disk.png?raw=true" width="20" height="20" alt="Optical Disk"/>
-              <strong>State Management</strong>
-            </div>
-            <div>
-              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Artist%20Palette.png?raw=true" width="20" height="20" alt="Artist Palette"/>
-              <strong>UI Design</strong>
-            </div>
-          </div>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Architecture & Integration</h3>
-        <img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/master/content/img/badge.svg" width="90%" alt="Architecture Graph">
-        <div align="center">
-          <div style="display: flex; justify-content: space-between; width: 90%;">
-            <div>
-              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Classical%20Building.png?raw=true" width="20" height="20" alt="Classical Building"/>
-              <strong>Clean Architecture</strong>
-            </div>
-            <div>
-              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Link.png?raw=true" width="20" height="20" alt="Link"/>
-              <strong>API Integration</strong>
-            </div>
-          </div>
-          <div style="display: flex; justify-content: space-between; width: 90%;">
-            <div>
-              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Card%20Index%20Dividers.png?raw=true" width="20" height="20" alt="Card Index Dividers"/>
-              <strong>Database Design</strong>
-            </div>
-            <div>
-              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Shield.png?raw=true" width="20" height="20" alt="Shield"/>
-              <strong>Security</strong>
-            </div>
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <!-- GitHub Stats Section with Animations -->
 <h2 align="center">📊 GitHub Stats</h2>
@@ -241,26 +131,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 </p>
 
-<!-- Featured Projects Section with Interactive Cards -->
-<h2 align="center">✨ Featured Projects</h2>
 
-<div align="center">
-  <a href="https://github.com/AhmedSlman/flutter-ar-shop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSlman&repo=flutter-ar-shop&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="AR Shopping App">
-  </a>
-  <a href="https://github.com/AhmedSlman/flutter-smart-home">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSlman&repo=flutter-smart-home&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Smart Home App">
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/AhmedSlman/flutter-ai-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSlman&repo=flutter-ai-assistant&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="AI Assistant">
-  </a>
-  <a href="https://github.com/AhmedSlman/flutter-educational-games">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSlman&repo=flutter-educational-games&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Educational Games">
-  </a>
-</div>
 
 <!-- Portfolio Button -->
 <p align="center">
@@ -295,17 +166,7 @@
   </a>
 </p>
 
-<!-- Support Section -->
-<h2 align="center">☕ Support My Work</h2>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/YourHandle">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-  <a href="https://www.patreon.com/YourHandle">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
-  </a>
-</p>
 
 <!-- GitHub Activity Graph -->
 <h2 align="center">📈 Activity Graph</h2>
