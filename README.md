@@ -88,16 +88,37 @@
 </details>
 
 <details>
-  <summary><b>🛠️ Development Tools</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
-    <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  </p>
+  <summary><h3>🎮 Dev Tools Playground</h3></summary>
+  
+  <div align="center">
+  
+   🖥️ IDEs & Editors
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&labelColor=1e1e1e&logoWidth=20"> 
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white&labelColor=202124">
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white&labelColor=0d1117">
+  
+   🧰 Version Control
+  <div style="display: inline-block; position: relative;">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=f0f0f0">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" style="margin-left: -10px;">
+  </div>
+
+   🎨 Design & Prototyping
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white&labelColor=2e0202">
+
+   🔌 API Tools
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&labelColor=2d2d2d">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black&labelColor=ffffff">
+
+   🛠️ Extras
+  <div style="display: inline-flex; gap: 5px; background: #1a1a1a; padding: 10px; border-radius: 8px; margin-top: 10px;">
+    <img src="https://img.icons8.com/3d-fluency/50/docker.png" width="30">
+    <img src="https://img.icons8.com/3d-fluency/50/jira.png" width="30">
+    <img src="https://img.icons8.com/3d-fluency/50/trello.png" width="30">
+  </div>
+  
+  </div>
 </details>
 
 <!-- Animated Divider -->
