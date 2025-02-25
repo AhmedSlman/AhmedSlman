@@ -141,11 +141,40 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,bloc,rest&perline=6&theme=dark" width="80%">
   
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-top: 30px;">
-    <div>
-      <h4>🛠️ Development Tools</h4>
-      <img src="https://progress-bar.dev/85/?width=300&color=00e8fc&title=Android%20Studio">
-      <img src="https://progress-bar.dev/90/?width=300&color=00ff9d&title=VS%20Code">
+ <div align="center">
+  <h3>🚀 IDE Mastery Levels</h3>
+  
+  <!-- Android Studio Progress -->
+  <div style="margin: 20px 0; position: relative;">
+    <img src="https://img.icons8.com/3d-fluency/94/android-studio.png" width="50" style="vertical-align: middle; margin-right: 15px;"/>
+    <div style="display: inline-block; width: 70%;">
+      <img src="https://progress-bar.dev/85/?width=300&color=00e8fc&title=Android+Studio&gradient=00e8fc-00ff9d&scale=100&suffix=%EF%B8%8F" alt="Android Studio">
+      <div style="display: flex; justify-content: space-between; margin-top: 5px;">
+        <span style="color: #00e8fc;">⋆ Advanced</span>
+        <span style="color: #00ff9d;">850+ Hours</span>
+      </div>
     </div>
+  </div>
+
+  <!-- VS Code Progress -->
+  <div style="margin: 20px 0; position: relative;">
+    <img src="https://img.icons8.com/3d-fluency/94/visual-studio-code-2019.png" width="50" style="vertical-align: middle; margin-right: 15px;"/>
+    <div style="display: inline-block; width: 70%;">
+      <img src="https://progress-bar.dev/90/?width=300&color=00ff9d&title=VS+Code&gradient=00ff9d-0066ff&scale=100&suffix=%EF%B8%8F" alt="VS Code">
+      <div style="display: flex; justify-content: space-between; margin-top: 5px;">
+        <span style="color: #00ff9d;">✪ Expert</span>
+        <span style="color: #0066ff;">1200+ Hours</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Skill Legend -->
+  <div style="background: #1a1a2e; padding: 10px; border-radius: 8px; margin-top: 20px;">
+    <span style="color: #00e8fc;">⋆ Advanced (80-89%)</span> | 
+    <span style="color: #00ff9d;">✪ Expert (90%+)</span> | 
+    <span style="color: #ff00d9;">⭒ Intermediate (60-79%)</span>
+  </div>
+</div>
     
 <!-- GitHub Stats Section with Animations -->
 <h2 align="center">📊 GitHub Stats</h2>
