@@ -125,75 +125,7 @@
       <img src="https://progress-bar.dev/85/?width=300&color=00e8fc&title=Android%20Studio">
       <img src="https://progress-bar.dev/90/?width=300&color=00ff9d&title=VS%20Code">
     </div>
-    <div>
-      <h4>🎨 Design Skills</h4>
-      <img src="https://progress-bar.dev/75/?width=300&color=ff00d9&title=UI%20Prototyping">
-      <img src="https://progress-bar.dev/80/?width=300&color=0066ff&title=UX%20Research">
-    </div>
-  </div>
-</div>
-<!-- Skills Showcase -->
-<h2 align="center">⚡ Skills Showcase</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Flutter & Dart Proficiency</h3>
-        <img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/master/content/img/badge.svg" width="90%" alt="Skills Graph">
-        <div align="center">
-          <div style="display: flex; justify-content: space-between; width: 90%;">
-            <div>
-              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/High%20Voltage.png?raw=true" width="20" height="20" alt="High Voltage"/>
-              <strong>Performance Optimization</strong>
-            </div>
-            <div>
-              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Puzzle%20Piece.png?raw=true" width="20" height="20" alt="Puzzle Piece"/>
-              <strong>Custom Widgets</strong>
-            </div>
-          </div>
-          <div style="display: flex; justify-content: space-between; width: 90%;">
-            <div>
-              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Optical%20Disk.png?raw=true" width="20" height="20" alt="Optical Disk"/>
-              <strong>State Management</strong>
-            </div>
-            <div>
-              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Artist%20Palette.png?raw=true" width="20" height="20" alt="Artist Palette"/>
-              <strong>UI Design</strong>
-            </div>
-          </div>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Architecture & Integration</h3>
-        <img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/master/content/img/badge.svg" width="90%" alt="Architecture Graph">
-        <div align="center">
-          <div style="display: flex; justify-content: space-between; width: 90%;">
-            <div>
-              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Classical%20Building.png?raw=true" width="20" height="20" alt="Classical Building"/>
-              <strong>Clean Architecture</strong>
-            </div>
-            <div>
-              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Link.png?raw=true" width="20" height="20" alt="Link"/>
-              <strong>API Integration</strong>
-            </div>
-          </div>
-          <div style="display: flex; justify-content: space-between; width: 90%;">
-            <div>
-              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Card%20Index%20Dividers.png?raw=true" width="20" height="20" alt="Card Index Dividers"/>
-              <strong>Database Design</strong>
-            </div>
-            <div>
-              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Shield.png?raw=true" width="20" height="20" alt="Shield"/>
-              <strong>Security</strong>
-            </div>
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
+    
 <!-- GitHub Stats Section with Animations -->
 <h2 align="center">📊 GitHub Stats</h2>
 
