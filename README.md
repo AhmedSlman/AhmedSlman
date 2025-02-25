@@ -117,10 +117,7 @@
     </a>
   </p>
   
-  <!-- 3D Contribution Graph -->
-  <a href="https://github.com/AhmedSlman">
-    <img width="900em" src="https://github-profile-3d-contrib.vercel.app/api?username=AhmedSlman&theme=dark" alt="Contribution Graph" />
-  </a>
+
 </div>
 
 <!-- Animated Divider -->
