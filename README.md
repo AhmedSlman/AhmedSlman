@@ -109,7 +109,7 @@
 <h2 align="center">🚀 Current Focus</h2>
 
 <div align="center">
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Rocket.png?raw=true" width="25" height="25"/> 
+  <img src="https://em-content.zobj.net/thumbs/160/microsoft/319/rocket_1f680.png" width="40" height="40"/> 
   <strong>Building a Flutter AR Navigation System</strong>
 </div>
 
@@ -117,30 +117,31 @@
   <table>
     <tr>
       <td>
-        <img align="center" src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Chart%20Increasing.png?raw=true" width="25" height="25" alt="Chart Increasing"> 
-        <strong>Timeline:</strong>
+        <img src="https://em-content.zobj.net/thumbs/160/microsoft/319/chart-increasing_1f4c8.png" width="30" height="30"/> 
+        <strong>Timeline Progress:</strong>
       </td>
     </tr>
   </table>
-  
-  <div align="center">
-    <div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://progress-bar.dev/100/?title=Research&width=200&color=00E8FC" alt="Research Progress" />
-      <span style="margin-left: 10px;">Completed market research and feasibility study</span>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://progress-bar.dev/75/?title=Design&width=200&color=00E8FC" alt="Design Progress" />
-      <span style="margin-left: 10px;">Working on UI/UX design and architecture</span>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://progress-bar.dev/40/?title=Development&width=200&color=00E8FC" alt="Development Progress" />
-      <span style="margin-left: 10px;">Implementing AR features and core functionality</span>
-    </div>
-    <div style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://progress-bar.dev/10/?title=Testing&width=200&color=00E8FC" alt="Testing Progress" />
-      <span style="margin-left: 10px;">Early-stage testing of AR components</span>
-    </div>
-  </div>
+
+  <!-- Progress Bars with Icons -->
+  <table align="center">
+    <tr>
+      <td width="120">🔍 Research</td>
+      <td><img src="https://progress-bar.dev/100/?width=300&color=00ff9d&title=Completed"></td>
+    </tr>
+    <tr>
+      <td>🎨 Design</td>
+      <td><img src="https://progress-bar.dev/75/?width=300&color=00e8fc"></td>
+    </tr>
+    <tr>
+      <td>💻 Development</td>
+      <td><img src="https://progress-bar.dev/40/?width=300&color=0066ff"></td>
+    </tr>
+    <tr>
+      <td>🧪 Testing</td>
+      <td><img src="https://progress-bar.dev/10/?width=300&color=ff00d9"></td>
+    </tr>
+  </table>
 </div>
 
 <!-- Skills Showcase -->
