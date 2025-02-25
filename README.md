@@ -55,8 +55,8 @@
 <h2 align="center">🔮 Tech Stack</h2>
 
 <details open>
-  <summary><b>🧰 Core Technologies</b></summary>
-  <br>
+<!--   <summary><b>🧰 Core Technologies</b></summary>
+  <br> -->
   <p align="center">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
@@ -87,39 +87,100 @@
   </p>
 </details>
 
-<details>
-  <summary><h3>🎮 Dev Tools Playground</h3></summary>
-  
-  <div align="center">
-  
-   🖥️ IDEs & Editors
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&labelColor=1e1e1e&logoWidth=20"> 
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white&labelColor=202124">
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white&labelColor=0d1117">
-  
-   🧰 Version Control
-  <div style="display: inline-block; position: relative;">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=f0f0f0">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" style="margin-left: -10px;">
-  </div>
+<!-- Current Focus with Timeline -->
+<h2 align="center">🚀 Current Focus</h2>
 
-   🎨 Design & Prototyping
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white&labelColor=2e0202">
+<div align="center">
+  <i class="fas fa-rocket" style="font-size: 40px; color: #ff5722;"></i>
+  <h3>Building a Flutter AR Navigation System</h3>
+</div>
 
-   🔌 API Tools
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&labelColor=2d2d2d">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black&labelColor=ffffff">
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <i class="fas fa-chart-line" style="font-size: 30px; color: #4caf50;"></i>
+        <strong>Timeline Progress:</strong>
+      </td>
+    </tr>
+  </table>
 
-   🛠️ Extras
-  <div style="display: inline-flex; gap: 5px; background: #1a1a1a; padding: 10px; border-radius: 8px; margin-top: 10px;">
-    <img src="https://img.icons8.com/3d-fluency/50/docker.png" width="30">
-    <img src="https://img.icons8.com/3d-fluency/50/jira.png" width="30">
-    <img src="https://img.icons8.com/3d-fluency/50/trello.png" width="30">
-  </div>
-  
-  </div>
-</details>
+  <!-- Progress Bars with Icons -->
+  <table align="center" style="width: 80%;">
+    <tr>
+      <td width="150"><i class="fas fa-search" style="color: #4caf50;"></i> Research</td>
+      <td><progress value="100" max="100" style="width: 100%;"></progress> <strong>100%</strong></td>
+    </tr>
+    <tr>
+      <td><i class="fas fa-paint-brush" style="color: #00e8fc;"></i> Design</td>
+      <td><progress value="75" max="100" style="width: 100%;"></progress> <strong>75%</strong></td>
+    </tr>
+    <tr>
+      <td><i class="fas fa-laptop-code" style="color: #0066ff;"></i> Development</td>
+      <td><progress value="40" max="100" style="width: 100%;"></progress> <strong>40%</strong></td>
+    </tr>
+    <tr>
+      <td><i class="fas fa-vial" style="color: #ff00d9;"></i> Testing</td>
+      <td><progress value="10" max="100" style="width: 100%;"></progress> <strong>10%</strong></td>
+    </tr>
+  </table>
+</div>
+
+<!-- Skills Showcase -->
+<h2 align="center">⚡ Skills Showcase</h2>
+
+<div align="center">
+  <table style="width: 90%; border-collapse: collapse;">
+    <tr>
+      <td width="50%" style="vertical-align: top; padding: 20px;">
+        <h3 align="center">Flutter & Dart Proficiency</h3>
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <i class="fas fa-tachometer-alt" style="color: #ff9800;"></i>
+            <strong>Performance Optimization</strong>
+          </div>
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <i class="fas fa-puzzle-piece" style="color: #2196f3;"></i>
+            <strong>Custom Widgets</strong>
+          </div>
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <i class="fas fa-database" style="color: #9c27b0;"></i>
+            <strong>State Management</strong>
+          </div>
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <i class="fas fa-paint-brush" style="color: #e91e63;"></i>
+            <strong>UI Design</strong>
+          </div>
+        </div>
+      </td>
+      <td width="50%" style="vertical-align: top; padding: 20px;">
+        <h3 align="center">Architecture & Integration</h3>
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <i class="fas fa-building" style="color: #3f51b5;"></i>
+            <strong>Clean Architecture</strong>
+          </div>
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <i class="fas fa-link" style="color: #ff5722;"></i>
+            <strong>API Integration</strong>
+          </div>
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <i class="fas fa-database" style="color: #009688;"></i>
+            <strong>Database Design</strong>
+          </div>
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <i class="fas fa-shield-alt" style="color: #f44336;"></i>
+            <strong>Security</strong>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- FontAwesome Icons -->
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+
 
 <!-- Animated Divider -->
 <p align="center">
