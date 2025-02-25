@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00E8FC&vCenter=true&width=600&height=70&lines=Hello!+I'm+Ahmed+Slman+👋;Flutter+%26+Dart+Architect+🏗️;Crafting+Digital+Experiences+✨;Building+Tomorrow's+Apps+Today+🚀;" alt="Typing Animation">
 </h1>
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6465766f70732e656c762f6173736574732f696d672f666c75747465722d6170702d646576656c6f706d656e742e676966" width="500" alt="Flutter Animation">
-</p>
+
 
 <!-- بديل 5: تصميم ثلاثي الأبعاد -->
 <p align="center">
