@@ -2,58 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00E8FC&vCenter=true&width=600&height=70&lines=Hello!+I'm+Ahmed+Slman+👋;Flutter+%26+Dart+Architect+🏗️;Crafting+Digital+Experiences+✨;Building+Tomorrow's+Apps+Today+🚀;" alt="Typing Animation">
 </h1>
 
-<!DOCTYPE html>
-<html lang="ar">
-<head>
-  <meta charset="UTF-8">
-  <title>خريطة تفاعلية</title>
-  <style>
-    #tooltip {
-      position: absolute;
-      display: none;
-      background: white;
-      border: 1px solid black;
-      padding: 5px;
-      font-family: Arial, sans-serif;
-    }
-  </style>
-</head>
-<body>
-  <svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="100" cy="100" r="10" fill="blue" id="project1" />
-    <circle cx="300" cy="200" r="10" fill="green" id="project2" />
-    <circle cx="500" cy="300" r="10" fill="red" id="project3" />
-  </svg>
-
-  <div id="tooltip"></div>
-
-  <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      const projects = {
-        project1: 'مشروع 1: تطبيق في القاهرة',
-        project2: 'مشروع 2: موقع ويب في الإسكندرية',
-        project3: 'مشروع 3: نظام إدارة في المنصورة'
-      };
-
-      const tooltip = document.getElementById('tooltip');
-
-      document.querySelectorAll('circle').forEach(circle => {
-        circle.addEventListener('mouseover', function(event) {
-          const projectInfo = projects[this.id];
-          tooltip.innerHTML = projectInfo;
-          tooltip.style.display = 'block';
-          tooltip.style.left = event.pageX + 10 + 'px';
-          tooltip.style.top = event.pageY + 10 + 'px';
-        });
-
-        circle.addEventListener('mouseout', function() {
-          tooltip.style.display = 'none';
-        });
-      });
-    });
-  </script>
-</body>
-</html>
 
 
 <!-- Custom Badges -->
