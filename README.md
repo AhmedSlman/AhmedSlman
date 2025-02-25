@@ -1,16 +1,16 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00E8FC&vCenter=true&width=600&height=70&lines=مرحبًا!+أنا+أحمد+سلمان+👋;Flutter+%26+Dart+Architect+🏗️;Crafting+Digital+Experiences+✨;Building+Tomorrow's+Apps+Today+🚀;" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00E8FC&vCenter=true&width=600&height=70&lines=Hello!+I'm+Ahmed+Slman+👋;Flutter+%26+Dart+Architect+🏗️;Crafting+Digital+Experiences+✨;Building+Tomorrow's+Apps+Today+🚀;" alt="Typing Animation">
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AhmedSlman/AhmedSlman/main/banner.gif" alt="Animated Coding Banner" width="90%">
+  <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="500" alt="Animated Coding Banner">
 </p>
 
 <!-- Custom Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AhmedSlman&color=00E8FC&style=flat-square&label=Profile+Views" alt="Profile Views">
   <a href="https://wakatime.com/@AhmedSlman">
-    <img src="https://wakatime.com/badge/user/AhmedSlman.svg" alt="Total time coded">
+    <img src="https://img.shields.io/badge/Coding%20Time-300%2B%20hrs-00E8FC?style=flat-square" alt="Total time coded">
   </a>
   <img src="https://img.shields.io/github/followers/AhmedSlman?color=00E8FC&logo=github&style=flat-square" alt="GitHub Followers">
 </p>
@@ -21,30 +21,27 @@
 </p>
 
 <!-- About Me Section with Custom Styling -->
-<h2 align="center">👨‍💻 من أنا</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
-class FlutterDeveloper {
-  final String name          = 'أحمد سلمان';
-  final String role          = 'Flutter Architect & Mobile Sorcerer';
-  final String location      = 'المنصورة، مصر';
-  final String degree        = 'بكالوريوس هندسة برمجيات';
-  final String motto         = 'اولاً حل المشكلة، ثم اكتب الكود';
-  final bool coffeeDriven    = true;
-  final List<String> focuses = [
-    'هندسة معمارية قابلة للتطوير لتطبيقات فلاتر',
-    'واجهات مستخدم سلسة وسريعة الاستجابة',
-    'حلول مبتكرة لمشاكل معقدة',
-    'أتمتة عمليات اختبار التطبيقات',
-  ];
-  
-  String currentProject() {
-    return 'بناء تطبيق للواقع المعزز لتحسين تجربة التسوق';
-  }
-  
-  List<String> latestSkills() {
-    return ['Clean Architecture', 'Riverpod', 'Animation System', 'AR Integration'];
-  }
-}
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="280px" alt="Coder GIF">
+    </td>
+    <td width="50%">
+      <ul>
+        <li>👨‍💻 <b>Ahmed Slman</b> | Flutter Architect</li>
+        <li>🌍 Based in Mansoura, Egypt</li>
+        <li>🎓 BSc in Software Engineering</li>
+        <li>💼 Working on scalable Flutter architecture</li>
+        <li>🔥 "First solve the problem, then write the code"</li>
+        <li>☕ Transforming coffee into clean code</li>
+        <li>🚀 Currently building AR apps for enhanced shopping</li>
+        <li>🌱 Learning AI integration with mobile apps</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <!-- Animated Divider -->
 <p align="center">
@@ -52,10 +49,10 @@ class FlutterDeveloper {
 </p>
 
 <!-- Tech Stack with Animated Icons -->
-<h2 align="center">🔮 أدواتي التقنية</h2>
+<h2 align="center">🔮 Tech Stack</h2>
 
 <details open>
-  <summary><b>🧰 الأساسيات</b></summary>
+  <summary><b>🧰 Core Technologies</b></summary>
   <br>
   <p align="center">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
@@ -66,7 +63,7 @@ class FlutterDeveloper {
 </details>
 
 <details>
-  <summary><b>🗄️ قواعد البيانات</b></summary>
+  <summary><b>🗄️ Databases</b></summary>
   <br>
   <p align="center">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
@@ -77,7 +74,7 @@ class FlutterDeveloper {
 </details>
 
 <details>
-  <summary><b>🧠 إدارة الحالة</b></summary>
+  <summary><b>🧠 State Management</b></summary>
   <br>
   <p align="center">
     <img src="https://img.shields.io/badge/Riverpod-0175C2?style=for-the-badge&logo=flutter&logoColor=white" alt="Riverpod">
@@ -88,7 +85,7 @@ class FlutterDeveloper {
 </details>
 
 <details>
-  <summary><b>🛠️ أدوات التطوير</b></summary>
+  <summary><b>🛠️ Development Tools</b></summary>
   <br>
   <p align="center">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
@@ -105,8 +102,108 @@ class FlutterDeveloper {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 </p>
 
+<!-- Current Focus with Timeline -->
+<h2 align="center">🚀 Current Focus</h2>
+
+<div align="center">
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Rocket.png?raw=true" width="25" height="25"/> 
+  <strong>Building a Flutter AR Navigation System</strong>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img align="center" src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Chart%20Increasing.png?raw=true" width="25" height="25" alt="Chart Increasing"> 
+        <strong>Timeline:</strong>
+      </td>
+    </tr>
+  </table>
+  
+  <div align="center">
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://progress-bar.dev/100/?title=Research&width=200&color=00E8FC" alt="Research Progress" />
+      <span style="margin-left: 10px;">Completed market research and feasibility study</span>
+    </div>
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://progress-bar.dev/75/?title=Design&width=200&color=00E8FC" alt="Design Progress" />
+      <span style="margin-left: 10px;">Working on UI/UX design and architecture</span>
+    </div>
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://progress-bar.dev/40/?title=Development&width=200&color=00E8FC" alt="Development Progress" />
+      <span style="margin-left: 10px;">Implementing AR features and core functionality</span>
+    </div>
+    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://progress-bar.dev/10/?title=Testing&width=200&color=00E8FC" alt="Testing Progress" />
+      <span style="margin-left: 10px;">Early-stage testing of AR components</span>
+    </div>
+  </div>
+</div>
+
+<!-- Skills Showcase -->
+<h2 align="center">⚡ Skills Showcase</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Flutter & Dart Proficiency</h3>
+        <img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/master/content/img/badge.svg" width="90%" alt="Skills Graph">
+        <div align="center">
+          <div style="display: flex; justify-content: space-between; width: 90%;">
+            <div>
+              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/High%20Voltage.png?raw=true" width="20" height="20" alt="High Voltage"/>
+              <strong>Performance Optimization</strong>
+            </div>
+            <div>
+              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Puzzle%20Piece.png?raw=true" width="20" height="20" alt="Puzzle Piece"/>
+              <strong>Custom Widgets</strong>
+            </div>
+          </div>
+          <div style="display: flex; justify-content: space-between; width: 90%;">
+            <div>
+              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Optical%20Disk.png?raw=true" width="20" height="20" alt="Optical Disk"/>
+              <strong>State Management</strong>
+            </div>
+            <div>
+              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Artist%20Palette.png?raw=true" width="20" height="20" alt="Artist Palette"/>
+              <strong>UI Design</strong>
+            </div>
+          </div>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Architecture & Integration</h3>
+        <img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/master/content/img/badge.svg" width="90%" alt="Architecture Graph">
+        <div align="center">
+          <div style="display: flex; justify-content: space-between; width: 90%;">
+            <div>
+              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Classical%20Building.png?raw=true" width="20" height="20" alt="Classical Building"/>
+              <strong>Clean Architecture</strong>
+            </div>
+            <div>
+              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Link.png?raw=true" width="20" height="20" alt="Link"/>
+              <strong>API Integration</strong>
+            </div>
+          </div>
+          <div style="display: flex; justify-content: space-between; width: 90%;">
+            <div>
+              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Card%20Index%20Dividers.png?raw=true" width="20" height="20" alt="Card Index Dividers"/>
+              <strong>Database Design</strong>
+            </div>
+            <div>
+              <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Shield.png?raw=true" width="20" height="20" alt="Shield"/>
+              <strong>Security</strong>
+            </div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <!-- GitHub Stats Section with Animations -->
-<h2 align="center">📊 إحصائيات GitHub</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <!-- GitHub Stats Card with Animation -->
@@ -128,7 +225,7 @@ class FlutterDeveloper {
   
   <!-- 3D Contribution Graph -->
   <a href="https://github.com/AhmedSlman">
-    <img width="900em" src="https://raw.githubusercontent.com/AhmedSlman/AhmedSlman/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Contribution Graph" />
+    <img width="900em" src="https://github-profile-3d-contrib.vercel.app/api?username=AhmedSlman&theme=dark" alt="Contribution Graph" />
   </a>
 </div>
 
@@ -137,92 +234,25 @@ class FlutterDeveloper {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 </p>
 
-<!-- Projects Section with Hover Effects -->
-<h2 align="center">🚀 أبرز المشاريع</h2>
+<!-- Featured Projects Section with Interactive Cards -->
+<h2 align="center">✨ Featured Projects</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🌟 تطبيق Flutter-AI</h3>
-        <div align="center">
-          <a href="https://github.com/AhmedSlman/project-name" target="_blank">
-            <img src="https://imgur.com/placeholder/to/your/image.png" width="90%" alt="Flutter AI App"/>
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="https://github.com/AhmedSlman/project-name" target="_blank">
-              <img src="https://img.shields.io/badge/Code-00E8FC?style=for-the-badge&logo=github&logoColor=black" alt="Code"/>
-            </a>
-            <a href="https://your-deployed-app.com" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00B8A9?style=for-the-badge&logo=googleplay&logoColor=white" alt="Live"/>
-            </a>
-          </p>
-          <p><strong>Flutter, TensorFlow, Firebase</strong> - تطبيق مدعوم بالذكاء الاصطناعي يحسن تجربة المستخدم ويوفر تفاعلات مخصصة</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🎯 تطبيق E-Commerce</h3>
-        <div align="center">
-          <a href="https://github.com/AhmedSlman/project-name" target="_blank">
-            <img src="https://imgur.com/placeholder/to/your/image.png" width="90%" alt="E-Commerce App"/>
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="https://github.com/AhmedSlman/project-name" target="_blank">
-              <img src="https://img.shields.io/badge/Code-00E8FC?style=for-the-badge&logo=github&logoColor=black" alt="Code"/>
-            </a>
-            <a href="https://your-deployed-app.com" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00B8A9?style=for-the-badge&logo=googleplay&logoColor=white" alt="Live"/>
-            </a>
-          </p>
-          <p><strong>Flutter, Riverpod, Supabase</strong> - منصة تجارة إلكترونية كاملة المميزات مع معالجة الدفع وتتبع الطلبات</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">📱 تطبيق الواقع المعزز</h3>
-        <div align="center">
-          <a href="https://github.com/AhmedSlman/project-name" target="_blank">
-            <img src="https://imgur.com/placeholder/to/your/image.png" width="90%" alt="AR App"/>
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="https://github.com/AhmedSlman/project-name" target="_blank">
-              <img src="https://img.shields.io/badge/Code-00E8FC?style=for-the-badge&logo=github&logoColor=black" alt="Code"/>
-            </a>
-            <a href="https://your-deployed-app.com" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00B8A9?style=for-the-badge&logo=googleplay&logoColor=white" alt="Live"/>
-            </a>
-          </p>
-          <p><strong>Flutter, ARCore, ARKit</strong> - تطبيق يدمج تقنيات الواقع المعزز لتحسين تجربة المستخدم مع العالم الحقيقي</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🎮 تطبيق ألعاب تعليمية</h3>
-        <div align="center">
-          <a href="https://github.com/AhmedSlman/project-name" target="_blank">
-            <img src="https://imgur.com/placeholder/to/your/image.png" width="90%" alt="Educational Games"/>
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="https://github.com/AhmedSlman/project-name" target="_blank">
-              <img src="https://img.shields.io/badge/Code-00E8FC?style=for-the-badge&logo=github&logoColor=black" alt="Code"/>
-            </a>
-            <a href="https://your-deployed-app.com" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00B8A9?style=for-the-badge&logo=googleplay&logoColor=white" alt="Live"/>
-            </a>
-          </p>
-          <p><strong>Flutter, Flame, Firebase</strong> - مجموعة من الألعاب التعليمية التفاعلية للأطفال لتعزيز التعلم من خلال اللعب</p>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/AhmedSlman/flutter-ar-shop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSlman&repo=flutter-ar-shop&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="AR Shopping App">
+  </a>
+  <a href="https://github.com/AhmedSlman/flutter-smart-home">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSlman&repo=flutter-smart-home&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Smart Home App">
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/AhmedSlman/flutter-ai-assistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSlman&repo=flutter-ai-assistant&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="AI Assistant">
+  </a>
+  <a href="https://github.com/AhmedSlman/flutter-educational-games">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSlman&repo=flutter-educational-games&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Educational Games">
+  </a>
 </div>
 
 <!-- Portfolio Button -->
@@ -238,7 +268,7 @@ class FlutterDeveloper {
 </p>
 
 <!-- Connect Section with Modern Styling -->
-<h2 align="center">🌐 تواصل معي</h2>
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="mailto:ahmedslman151@gmail.com">
@@ -259,7 +289,7 @@ class FlutterDeveloper {
 </p>
 
 <!-- Support Section -->
-<h2 align="center">☕ دعم المطور</h2>
+<h2 align="center">☕ Support My Work</h2>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/YourHandle">
@@ -271,7 +301,7 @@ class FlutterDeveloper {
 </p>
 
 <!-- GitHub Activity Graph -->
-<h2 align="center">📈 نشاطي على GitHub</h2>
+<h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedSlman&bg_color=0D1117&color=00E8FC&line=00B8A9&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph">
@@ -279,7 +309,7 @@ class FlutterDeveloper {
 
 <!-- Animated Footer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AhmedSlman/AhmedSlman/main/snake.svg" alt="Snake Animation">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
 
 <p align="center">
