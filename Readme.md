@@ -5,11 +5,12 @@
 <p align="center">
   <img src="https://i.gifer.com/origin/0d/0d7a5d0a3d1f2e4f0e4e4e4e4e4e4e4e.gif" width="500" alt="Tech Particles">
 </p>
+>
 
 
 <!-- بديل 2: شاشة كود متحركة -->
 <!-- بديل 5: تصميم ثلاثي الأبعاد --
->
+
 
 <!-- Custom Badges -->
 <p align="center">
