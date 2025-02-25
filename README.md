@@ -147,10 +147,7 @@
     </a>
   </p>
   
-  <!-- 3D Contribution Graph -->
-  <a href="https://github.com/AhmedSlman">
-    <img width="900em" src="https://github-profile-3d-contrib.vercel.app/api?username=AhmedSlman&theme=dark" alt="Contribution Graph" />
-  </a>
+
 </div>
 
 <!-- Animated Divider -->
@@ -158,26 +155,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 </p>
 
-<!-- Featured Projects Section with Interactive Cards -->
-<h2 align="center">✨ Featured Projects</h2>
 
-<div align="center">
-  <a href="https://github.com/AhmedSlman/flutter-ar-shop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSlman&repo=flutter-ar-shop&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="AR Shopping App">
-  </a>
-  <a href="https://github.com/AhmedSlman/flutter-smart-home">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSlman&repo=flutter-smart-home&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Smart Home App">
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/AhmedSlman/flutter-ai-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSlman&repo=flutter-ai-assistant&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="AI Assistant">
-  </a>
-  <a href="https://github.com/AhmedSlman/flutter-educational-games">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedSlman&repo=flutter-educational-games&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Educational Games">
-  </a>
-</div>
 
 <!-- Portfolio Button -->
 <p align="center">
@@ -212,17 +190,7 @@
   </a>
 </p>
 
-<!-- Support Section -->
-<h2 align="center">☕ Support My Work</h2>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/YourHandle">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-  <a href="https://www.patreon.com/YourHandle">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
-  </a>
-</p>
 
 <!-- GitHub Activity Graph -->
 <h2 align="center">📈 Activity Graph</h2>
