@@ -106,44 +106,85 @@
 </p>
 
 <!-- Current Focus with Timeline -->
-<h2 align="center">🚀 Current Focus</h2>
-
-<div align="center">
-  <img src="https://em-content.zobj.net/thumbs/160/microsoft/319/rocket_1f680.png" width="40" height="40"/> 
-  <strong>Building a Flutter AR Navigation System</strong>
-</div>
+<!-- Skills Showcase - Enhanced Version -->
+<h2 align="center">⚡ Tech Mastery Matrix</h2>
 
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://em-content.zobj.net/thumbs/160/microsoft/319/chart-increasing_1f4c8.png" width="30" height="30"/> 
-        <strong>Timeline Progress:</strong>
+      <td width="50%">
+        <!-- Flutter Expertise Card -->
+        <div align="center" style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+          <h3>🎯 Flutter Core Competencies</h3>
+          <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Flutter%20Mastery&align=center&titleAlign=center&fontSize=20&fontWeight=600&lineCount=2&badges=flutter,dart,firebase,supabase&badgeShadow=true" width="90%">
+          <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-top: 20px;">
+            <div style="display: flex; align-items: center;">
+              <img src="https://img.icons8.com/3d-fluency/50/rocket.png" width="30" height="30"/>
+              <span style="margin-left: 10px; color: #00e8fc;">Performance Tuning</span>
+            </div>
+            <div style="display: flex; align-items: center;">
+              <img src="https://img.icons8.com/3d-fluency/50/gears.png" width="30" height="30"/>
+              <span style="margin-left: 10px; color: #00ff9d;">State Management</span>
+            </div>
+            <div style="display: flex; align-items: center;">
+              <img src="https://img.icons8.com/3d-fluency/50/design.png" width="30" height="30"/>
+              <span style="margin-left: 10px; color: #ff00d9;">UI/UX Design</span>
+            </div>
+            <div style="display: flex; align-items: center;">
+              <img src="https://img.icons8.com/3d-fluency/50/plugin.png" width="30" height="30"/>
+              <span style="margin-left: 10px; color: #0066ff;">Custom Plugins</span>
+            </div>
+          </div>
+        </div>
       </td>
-    </tr>
-  </table>
-
-  <!-- Progress Bars with Icons -->
-  <table align="center">
-    <tr>
-      <td width="120">🔍 Research</td>
-      <td><img src="https://progress-bar.dev/100/?width=300&color=00ff9d&title=Completed"></td>
-    </tr>
-    <tr>
-      <td>🎨 Design</td>
-      <td><img src="https://progress-bar.dev/75/?width=300&color=00e8fc"></td>
-    </tr>
-    <tr>
-      <td>💻 Development</td>
-      <td><img src="https://progress-bar.dev/40/?width=300&color=0066ff"></td>
-    </tr>
-    <tr>
-      <td>🧪 Testing</td>
-      <td><img src="https://progress-bar.dev/10/?width=300&color=ff00d9"></td>
+      <td width="50%">
+        <!-- Architecture & Integration Card -->
+        <div align="center" style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 20px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+          <h3>🏗️ Architectural Prowess</h3>
+          <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=System%20Design&align=center&titleAlign=center&fontSize=20&fontWeight=600&lineCount=2&badges=bloc,riverpod,rest,graphql&badgeShadow=true" width="90%">
+          <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-top: 20px;">
+            <div style="display: flex; align-items: center;">
+              <img src="https://img.icons8.com/3d-fluency/50/module.png" width="30" height="30"/>
+              <span style="margin-left: 10px; color: #00e8fc;">Clean Architecture</span>
+            </div>
+            <div style="display: flex; align-items: center;">
+              <img src="https://img.icons8.com/3d-fluency/50/api.png" width="30" height="30"/>
+              <span style="margin-left: 10px; color: #00ff9d;">API Integration</span>
+            </div>
+            <div style="display: flex; align-items: center;">
+              <img src="https://img.icons8.com/3d-fluency/50/database.png" width="30" height="30"/>
+              <span style="margin-left: 10px; color: #ff00d9;">Database Design</span>
+            </div>
+            <div style="display: flex; align-items: center;">
+              <img src="https://img.icons8.com/3d-fluency/50/security-checked.png" width="30" height="30"/>
+              <span style="margin-left: 10px; color: #0066ff;">Security Protocols</span>
+            </div>
+          </div>
+        </div>
+      </td>
     </tr>
   </table>
 </div>
 
+<!-- Progress Visualization -->
+<h2 align="center">📊 Skill Progression</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,bloc,rest&perline=6&theme=dark" width="80%">
+  
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-top: 30px;">
+    <div>
+      <h4>🛠️ Development Tools</h4>
+      <img src="https://progress-bar.dev/85/?width=300&color=00e8fc&title=Android%20Studio">
+      <img src="https://progress-bar.dev/90/?width=300&color=00ff9d&title=VS%20Code">
+    </div>
+    
+    <div>
+      <h4>🎨 Design Skills</h4>
+      <img src="https://progress-bar.dev/75/?width=300&color=ff00d9&title=UI%20Prototyping">
+      <img src="https://progress-bar.dev/80/?width=300&color=0066ff&title=UX%20Research">
+    </div>
+  </div>
+</div>
 <!-- Skills Showcase -->
 <h2 align="center">⚡ Skills Showcase</h2>
 
